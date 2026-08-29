@@ -1,1 +1,3 @@
 Login: enabled
+Method: Password
+Timeout: 30
