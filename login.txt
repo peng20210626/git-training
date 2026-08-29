@@ -3,3 +3,5 @@ Method: SSO
 Timeout: 60
 Retry: 5
 Status: Enabled
+Session: 60
+RememberMe: Disabled
