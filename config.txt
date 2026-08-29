@@ -1,5 +1,5 @@
 Application Configuration
 Environment: Production
-Timeout: 60
+Timeout: 90
 LogLevel: WARN
 FeatureLogin: Enabled
