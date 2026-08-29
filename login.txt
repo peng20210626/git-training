@@ -1,1 +1,5 @@
-b
+Login Configuration
+Method: SSO
+Timeout: 60
+Retry: 5
+Status: Enabled
