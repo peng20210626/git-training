@@ -3,3 +3,7 @@ User: PENG
 Role: Team Lead
 Status: Active
 Department: Platform Engineering
+Role: Manager
+Status: Active
+Department: Management
+
