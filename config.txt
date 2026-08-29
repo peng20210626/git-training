@@ -1,5 +1,5 @@
 Application Configuration
 Environment: development
-Database: local
+Database: PostgreSQL
 Debug: true
-LogLevel: INFO
+LogLevel: DEBUG

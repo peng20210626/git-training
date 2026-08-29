@@ -1,5 +1,5 @@
 User Management
 User: PENG
-Role: Developer
+Role: Senior Developer
 Status: Active
-Department: IT
+Department: Engineering

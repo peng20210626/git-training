@@ -1,5 +1,5 @@
-Login Configuration
-Method: Password
-Timeout: 30
-Retry: 3
-Status: Enabled
+Application Configuration
+Environment: development
+Database: PostgreSQL
+Debug: true
+LogLevel: DEBUG
