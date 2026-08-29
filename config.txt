@@ -1,5 +1,5 @@
 Application Configuration
 Environment: development
-Database: PostgreSQL
+Database: MySQL
 Debug: true
-LogLevel: DEBUG
+LogLevel: WARN
