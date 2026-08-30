@@ -4,3 +4,10 @@ Department: Platform Engineering
 Role: Manager
 Status: Active
 Department: Management
+<<<<<<< .mine
+Department: Management
+
+=======
+
+
+>>>>>>> .theirs
