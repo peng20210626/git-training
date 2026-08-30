@@ -1,12 +1,5 @@
 Application Configuration
 Environment: Production
 Timeout: 90
-LogLevel: WARN
-gitcommit1
-FeatureLogin: Enabled
-
-加一行
 
 
-FeatureLogin: Enabled
-加一行
