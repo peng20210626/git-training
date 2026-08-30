@@ -6,7 +6,6 @@ Status: Enabled
 Session: 60
 RememberMe: Disabled
 Method: Password
-Timeout: 30
 Retry: 10
 login=userB
 login=userA
