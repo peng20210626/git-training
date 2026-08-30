@@ -2,4 +2,3 @@ Application Configuration
 Environment: Production
 Timeout: 90
 LogLevel: WARN
-FeatureLogin: Enabled
