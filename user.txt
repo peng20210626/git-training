@@ -1,3 +1,15 @@
+<<<<<<< HEAD
 User: PENG
 Role: Developer
 Status: Active
+=======
+User Management
+User: PENG
+Role: Team Lead
+Status: Active
+Department: Platform Engineering
+Role: Manager
+Status: Active
+Department: Management
+
+>>>>>>> 94ea6559bfe90420455934a36ff6189bce9ff826

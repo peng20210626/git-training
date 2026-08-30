@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello Git - Login Feature
 Hello Git - Dashboard Feature
+=======
+Hello git
+>>>>>>> 94ea6559bfe90420455934a36ff6189bce9ff826

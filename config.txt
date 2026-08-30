@@ -1,3 +1,10 @@
+<<<<<<< HEAD
 Environment: development
 Database: local
 Debug: true
+=======
+Application Configuration
+Environment: Production
+Timeout: 90
+LogLevel: WARN
+>>>>>>> 94ea6559bfe90420455934a36ff6189bce9ff826
