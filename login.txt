@@ -9,4 +9,5 @@ Method: Password
 Retry: 10
 login=userB
 login=userA
+git commit 3
 
