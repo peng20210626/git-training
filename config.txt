@@ -1,5 +1,4 @@
 Application Configuration
 Environment: Production
 Timeout: 90
-LogLevel: WARN
-gitcommit1
+
